@@ -1358,3 +1358,9 @@ input[type="color"]:active, input[type="date"]:active, input[type="datetime"]:ac
     margin-bottom: 2em;
   }
 }
+
+
+
+#fullpage{
+  background-image: url(images/f2.gif) !important;
+}
